@@ -1,0 +1,22 @@
+    1  ls
+    2  cd
+    3  pwd
+    4  cd /
+    5  ls
+    6  ls -al
+    7  clear
+    8  cd
+    9  cd /
+   10  cd d
+   11  ls
+   12  cd AndresLua/
+   13  ls
+   14  cd Desktop/
+   15  ls
+   16  cd Aprendizaje/
+   17  ls
+   18  cd Curso\ de\ Git\ y\ GitHub/
+   19  ls
+   20  touch vacio.txt
+   21  cat vacio.txt
+   22  history
